@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "484581939575",
+    "project_id": "mentee-3a86f",
+    "storage_bucket": "mentee-3a86f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484581939575:android:90b0cbb4e569055f8b2972",
+        "android_client_info": {
+          "package_name": "com.example.mento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484581939575-umgamkjmbhnb29a7ppk60brf54a7ka1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mento",
+            "certificate_hash": "e8569a5c1dfcdf38e6e5eb3615018821c7ffaee7"
+          }
+        },
+        {
+          "client_id": "484581939575-4odrb08kt2megh6tigno6gknfrctf83s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsWGel3w6NAnzJC9mB7No4hvYo_nVJumo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484581939575-4odrb08kt2megh6tigno6gknfrctf83s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484581939575-hqj9fah7q0cbpb3o4sct1ll0mee7b0mo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mento"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
